@@ -1,0 +1,41 @@
+2026-06-29 12:24:08,386 - INFO - System files initialized successfully.
+2026-06-29 12:25:17,051 - INFO - Student 23/U/07270/EVE added.
+2026-06-29 12:25:42,418 - INFO - System closed.
+2026-06-29 12:26:01,485 - INFO - System files initialized successfully.
+2026-06-29 12:29:47,940 - INFO - Student 23/U/45554/PS added.
+2026-06-29 12:45:29,763 - INFO - System files initialized successfully.
+2026-06-29 12:45:33,548 - INFO - Viewed all student records.
+2026-06-29 12:48:06,931 - INFO - System files initialized successfully.
+2026-06-29 12:48:30,937 - INFO - Student 23/U/07270/EVE searched successfully.
+2026-06-29 12:48:52,553 - ERROR - Student record not found.
+2026-06-29 12:57:50,537 - INFO - System files initialized successfully.
+2026-06-29 12:58:58,661 - INFO - Student 23/U/07270/EVE updated successfully.
+2026-06-29 12:59:07,427 - INFO - Viewed all student records.
+2026-06-29 13:05:31,999 - INFO - System files initialized successfully.
+2026-06-29 13:05:51,251 - INFO - Student 23/U/45554/PS deleted successfully.
+2026-06-29 13:06:01,162 - INFO - System closed.
+2026-06-29 13:07:11,019 - INFO - System files initialized successfully.
+2026-06-29 13:07:28,964 - ERROR - Registration number cannot be empty.
+2026-06-29 13:09:10,301 - ERROR - Student already exists.
+2026-06-29 13:09:57,567 - ERROR - invalid literal for int() with base 10: 'Q'
+2026-06-29 13:11:45,811 - INFO - System files initialized successfully.
+2026-06-29 13:11:49,265 - INFO - Viewed all student records.
+2026-06-29 13:12:00,672 - INFO - System files initialized successfully.
+2026-06-29 13:12:03,593 - INFO - Viewed all student records.
+2026-06-29 13:16:17,235 - INFO - System closed.
+2026-06-29 13:16:56,338 - INFO - System files initialized successfully.
+2026-06-29 13:16:59,258 - ERROR - JSON file is corrupted.
+2026-06-29 13:16:59,258 - INFO - Viewed all student records.
+2026-06-29 13:17:39,520 - INFO - System files initialized successfully.
+2026-06-29 13:17:42,426 - ERROR - JSON file is corrupted.
+2026-06-29 13:17:42,427 - INFO - Viewed all student records.
+2026-06-29 13:21:20,499 - ERROR - JSON file is corrupted.
+2026-06-29 13:21:20,499 - INFO - Student 23/U/0776/PS added.
+2026-06-29 13:22:35,056 - INFO - Student 24/09776/EVE added.
+2026-06-29 13:23:07,310 - INFO - Viewed all student records.
+2026-06-29 13:23:25,286 - INFO - Student 23/U/07270/EVE searched successfully.
+2026-06-29 13:59:26,262 - INFO - System files initialized successfully.
+2026-06-29 13:59:36,477 - ERROR - Unexpected error: name 'validate_registration_number' is not defined
+2026-06-29 14:00:09,231 - ERROR - Unexpected error: name 'validate_registration_number' is not defined
+2026-06-29 14:02:06,924 - INFO - System files initialized successfully.
+2026-06-29 14:02:55,235 - INFO - Student 24/U/6654/PS added.
